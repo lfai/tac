@@ -2,7 +2,7 @@
 
 These practices will help you improve your GitHub presence in an effort to help you attract more users and developers to your project, secure your account, be precise about licensing, and maintain good housekeeping. Please issue a PR to add new recommendations or update existing ones.
 
-* Use the REPOLINTER tool created by the TODO Group to identify common issues in GitHub repos. 
+* Use the [REPOLINTER](https://github.com/todogroup/repolinter) tool created by the TODO Group to identify common issues in GitHub repos. 
 * Secure your GitHub account with two-factor authentication.
 * Ensure that every repo includes a LICENSE file. 
 * Add a README file to your repos welcoming new community members to the project and explaining why the project is useful and how to get started.
