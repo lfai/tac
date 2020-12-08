@@ -1,4 +1,4 @@
-# Recommended Practices for LF AI Projects Hosting Code on GitHub
+# Recommended Practices for LF AI & Data Projects Hosting Code on GitHub
 
 These practices will help you improve your GitHub presence in an effort to help you attract more users and developers to your project, secure your account, be precise about licensing, and maintain good housekeeping. Please issue a PR to add new recommendations or update existing ones.
 
@@ -21,5 +21,3 @@ These practices will help you improve your GitHub presence in an effort to help 
   * DCO: Include a copy of or reference to the Developer Certificate of Origin (DCO) in your CONTRIBUTING file. Set up a bot to enforce a “Signed-off-by:” tag in each commit (https://github.com/apps/dco)
   * CLAs: Use the Linux Foundation’s EasyCLA tool (https://lfcla.com/) to enforce signed CLAs before contributions are accepted. In either case: Configure the Github repo settings so that administrators are not able to bypass the DCO or CLA checks.
 17. Use English as the default universal language for anything you publish on GitHub. You can support a second language but English should be the primary language of communication towards a universal audience.
-
-
