@@ -14,7 +14,7 @@ These practices will help you improve your GitHub presence in an effort to help 
 10. Add a SUPPORT file to let users and developers know about ways to get help with your project. You can either add in this file how and where security issues are handled, or put it at the top level readme for the project, or alternatively refer to security documentation.
 11. Archive inactive repos to flag to your users and other developers that you’re not maintaining them.
 12. Setup issue template and pull request templates that help you customize and standardize the information you'd like contributors to include when they open issues and pull requests in your repository.
-13. Achieve and maintain a Core Infrastructure Initiative Best Practices Badge passing badge for your project.
+13. Achieve and maintain the [OpenSSF Best Practices Badge](https://bestpractices.coreinfrastructure.org/en) (previousely called the Core Infrastructure Initiative Best Practices Badge) for your project.
 14. Identify who on the project will be handling security issues (could be a team) and set up a separate email account.  Consider having the project become a CNA (CVE Numbering Authority).
 15. Include an SPDX short-form identifier in a comment at the top of each file in the repo, wherever reasonably possible.
 16. Depending on whether your project uses the DCO and/or CLAs:
